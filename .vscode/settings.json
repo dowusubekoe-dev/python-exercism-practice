@@ -1,0 +1,8 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorStyleInactive": "line",
+    "terminal.integrated.fontFamily": "Menlo",
+    "terminal.integrated.fontSize": 13,
+    "terminal.integrated.fontWeightBold": "400"
+}

@@ -28,8 +28,6 @@ Windows
 PS C:\Users\foobar> cd {path\to\exercise-folder-location}
 ```
 
-<br>
-
 Next, run the `pytest` command in your terminal, replacing `{exercise_test.py}` with the name of the test file:
 
 Linux/MacOS
@@ -46,7 +44,6 @@ PS C:\Users\foobar> py -m pytest -o markers=task {exercise_test.py}
 ==================== 7 passed in 0.08s ====================
 ```
 
-
 ### Common options
 
 - `-o` : override default `pytest.ini` (_you can use this to avoid marker warnings_)
@@ -55,7 +52,6 @@ PS C:\Users\foobar> py -m pytest -o markers=task {exercise_test.py}
 - `--ff` : run failures from previous test before running other test cases.
 
 For additional options, use `python3 -m pytest -h` or `py -m pytest -h`.
-
 
 ### Fixing warnings
 
@@ -80,7 +76,6 @@ Placing the `pytest.ini` file in the _root_ or _working_ directory for your Pyth
 More information on pytest marks can be found in the `pytest` documentation on [marking test functions][pytest: marking test functions with attributes] and the `pytest` documentation on [working with custom markers][pytest: working with custom markers].
 
 Information on customizing pytest configurations can be found in the `pytest` documentation on [configuration file formats][pytest: configuration file formats].
-
 
 ### Extending your IDE or Code Editor
 

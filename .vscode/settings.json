@@ -4,5 +4,10 @@
     "terminal.integrated.cursorStyleInactive": "line",
     "terminal.integrated.fontFamily": "Menlo",
     "terminal.integrated.fontSize": 13,
-    "terminal.integrated.fontWeightBold": "400"
+    "terminal.integrated.fontWeightBold": "400",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt"
+    "python.languageServer": "pylance"
+    "python.analysis.diagnosticSeverityOverrides": {
+    }
 }

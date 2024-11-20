@@ -3,10 +3,9 @@
 ## General
 
 - [The Python Tutorial][the python tutorial] can be a great introduction.
-- [PEP 8][pep8] is the Python code style guide.
+- [PEP 8][PEP8] is the Python code style guide.
 - [PEP 257][PEP257] details Python docstring conventions.
 - [Numbers][numbers] in Python can be integers, floats, or complex.
-
 
 ## 1. Define expected bake time in minutes
 
